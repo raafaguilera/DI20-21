@@ -1,0 +1,2 @@
+He intentado hacer este ejercicio pero tanto por falta de tiempo como de conocimientos sobre Gradle y JPRO,
+me ha sido imposible hacerlo.
